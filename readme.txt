@@ -10,6 +10,7 @@ input and output
 - memory
 - interpretation, perceive
 - judgement/decision making
+- personality...
 
 * most important
 - cognition ability -> the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses
